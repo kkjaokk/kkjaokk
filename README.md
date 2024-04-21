@@ -6,12 +6,19 @@
 
 ##
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkjaokk&show_icons=true&theme=tokyonight)
+ 
+<div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkjaokk&layout=donut-vertical&theme=tokyonight)](https://github.com/kkjaokk/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkjaokk&show_icons=true&theme=tokyonight)
+
+  
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkjaokk&layout=donut&theme=tokyonight)](https://github.com/kkjaokk/github-readme-stats)
+  
+##
 
 <img align="right" alt="guts-gif" height="150" width="200" src= "https://media.discordapp.net/attachments/1144873242801213482/1231498523476758570/9UZAEbT.gif?ex=66372d60&is=6624b860&hm=3270ea483d207c69cce52ff6f2131463e57ad0f3afe2bbc9ae8af0849cc0d818&=">
-
   <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Fig" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Joao-xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
