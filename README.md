@@ -32,8 +32,7 @@
 </div>
 
 ##
-  ![Snake animation](https://github.com/kkjaokk/kkjaokk/blob/output/github-contribution-grid-snake-dark.svg)
-
+  ![Snake animation](https://github.com/kkjaokk/kkjaokk/blob/output/github-contribution-grid-snake.svg)
 ## Loop
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkjaokk&theme=tokyonight&repo=Projeto_Loop)](https://github.com/kkjaokk/github-readme-stats)
