@@ -2,7 +2,7 @@
 
 - 🔭 UI/UX Designer
 - 🌱 Sistemas De Informação
-- 🏫 Instituto Federal Do Sul De Minas - Campus Machado
+- 🏫 Instituto Federal do Sul de Minas - Campus Machado
 
 ##
 
