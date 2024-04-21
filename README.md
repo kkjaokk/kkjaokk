@@ -42,3 +42,4 @@
 ![Snake animation](https://github.com/kkjaokk/kkjaokk/blob/output/github-contribution-grid-snake-dark.svg)
 ## Loop
 
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkjaokk&theme=tokyonight&repo=Projeto_Loop)
