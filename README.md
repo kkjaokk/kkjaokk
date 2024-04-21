@@ -31,6 +31,7 @@
   
 </div>
 
+##
   ![Snake animation](https://github.com/kkjaokk/kkjaokk/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Loop
